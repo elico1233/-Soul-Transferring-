@@ -4,8 +4,8 @@ Final year project for Media Arts
 # Soul Transferring
 Soul Transferring - Tong Xin Hua(1161303441)
 
-Exhibition theme: Second Life
-Title : Soul Transferring
+- Exhibition theme: Second Life
+- Title : Soul Transferring
 
 Soul defines the mental abilities of human being which is include of consciousness, memory, emotion, personality, etc.
 
@@ -37,8 +37,9 @@ I think that soul can transplant to technology item (ex:computer, smart phone,ro
 # Project Statement :
 Transfer or copy the consciousness, memory, and personality of human to a non- biological object to make it stay forever.
 
-Reason : Keep the “person” forever.
-Benefit : The knowledge will not be gone and can be used in the future.
+- Reason : Keep the “person” forever.
+
+- Benefit : The knowledge will not be gone and can be used in the future.
 
 
 
