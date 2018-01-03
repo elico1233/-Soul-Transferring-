@@ -34,9 +34,9 @@ The Target users of this project is stipulated the university/college students a
 
 There is few questions that is still unidentified, it has become the issues of this project.
 
--Q1: Does soul exist?
--Q2: Is it possible to exchange the soul through human?
--Q3 : What effect after exchanging the soul?
+- Q1: Does soul exist?
+- Q2: Is it possible to exchange the soul through human?
+- Q3 : What effect after exchanging the soul?
 
 
 # Project Argument :
