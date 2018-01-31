@@ -37,6 +37,36 @@ Transfer or copy the consciousness, emotion, and personality of human to a non- 
 
 ## Draft Sketches
 
+#### First Skectes 
+![picture11](https://user-images.githubusercontent.com/34241336/35634555-ed6ba62e-06e6-11e8-8944-95bd8b78624e.jpg)
+
+1. Playing an immersive projection in the room.
+2. Using camera to capture the movement of user and playing it in the Virtual Reality.
+3. Using technology device to read the emotion of human and show their emotion through the visual.
+
+#### Second Skectes 
+![picture3](https://user-images.githubusercontent.com/34241336/35634684-3e54ea46-06e7-11e8-8f11-0f94b4ac13ef.jpg)
+
+1. Hanging few transparent manikin's heads in a room. When user pass through the head, the manikin's head will show different color of light of LED.
+
+![picture4](https://user-images.githubusercontent.com/34241336/35634830-8f6f1ece-06e7-11e8-9c19-c188512eb710.jpg)
+
+2. Hanging the different type and countries gadgets in a room. When user pass through, it will have a greeting in different language refer to the country of the gadget.
+
+![picture5](https://user-images.githubusercontent.com/34241336/35634919-d8f96996-06e7-11e8-8b7a-1c8c0c08b2cf.jpg)
+
+3. Using modern computer as sculpture. When user pass through, it will show the emoji in different through the visual.
+
+
+#### Thrird Skectes 
+
+![picture6](https://user-images.githubusercontent.com/34241336/35635080-483b2d3a-06e8-11e8-862d-cd39a24fb3b0.jpg)
+
+1. This installation is when user enter into the room, sitting on the chair and wearing the cap that provide. It will show the  2D animation and image that translate from the question that user’s answer before entering into the room.
+
+![picture7](https://user-images.githubusercontent.com/34241336/35635113-60111b2c-06e8-11e8-8408-f2bbeaea9e34.jpg)
+
+2. There are few gadgets placing in a dark and black space randomly. It will show the animation through the screen and human speaking through the speaker of the gadgets when person pass through the gadgets. Before get into the space, it need to answer the questions.
 
 
 ## Justification: Case Studies & Background Research 
@@ -73,12 +103,16 @@ It is a surgery about Transplant the human's head of receiver to the human's bod
 Reference : https://www.newscientist.com/article/2073923-head-transplant-carried-out-on-monkey-claims-maverick-surgeon/
 
 ![picture1](https://user-images.githubusercontent.com/34241336/35633424-2321ce9a-06e4-11e8-972d-8477341cdb38.jpg)
-Figure : Experiment on head transplanting on mice.
+
+##### Experiment on head transplanting on mice.
+
 Reference : https://www.washingtontimes.com/news/2015/jun/6/chinese-doctor-performs-head-transplants-on-mice-m/
 
  ![picture2](https://user-images.githubusercontent.com/34241336/35633470-4d5d73f8-06e4-11e8-95f0-76dc2b457e29.jpg)
- Figure : Steps of human head transplanting
- Reference : http://www.sohu.com/a/205653923_115479 
+ 
+##### Steps of human head transplanting
+
+Reference : http://www.sohu.com/a/205653923_115479 
  
  The steps of human head transplanting : 
 1.	Find a suitable body provider and ready of the blood supply.
@@ -91,11 +125,15 @@ Reference : https://www.washingtontimes.com/news/2015/jun/6/chinese-doctor-perfo
 #### Mind Uploading
 The transfer from its original biological brain to an artificial computational substrate, called Whole brain emulation (WBE).  It still exist a lot of issues in this program, which is the path, speed, and etc.
 
+Reference : http://www.minduploading.org/ 
+
 
 ### Case Studies
 
 #### Title : Witness
 ![picture10](https://user-images.githubusercontent.com/34241336/35633725-eb999b8c-06e4-11e8-9e9a-7a0e367d698e.jpg)
+
+Reference : https://markmeynell.wordpress.com/2011/03/18/fully-immersed-into-babel-and-ghost-towns-susan-hillers-witness-j-street/ 
 
 Artist : Susan Hiller
 
@@ -104,8 +142,12 @@ Published : 2000
 400 speakers, 10 audio tracks, each with multiple recordings; wires, lights
 
 The artist has collected the mysterious case from the whole world and  transmits a voice telling a story. She are sharing the message through the speaker with sound. She hanging all the speakers in a space, users is able to walk around and enjoying the installation.
+
 #### Title : LINK
+
 ![picture9](https://user-images.githubusercontent.com/34241336/35633994-8758c1a6-06e5-11e8-9598-a88466cef0ea.jpg)
+
+Reference : https://www.designboom.com/art/kimchi-and-chips-link/ 
 
 Artist : Kimchi and Chips
 
