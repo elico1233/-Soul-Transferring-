@@ -163,6 +163,7 @@ Through the case studies, I have leanning the concept of space and human interac
 3. User have to answer 3 questions after scanning QR code.
 4. After submit the answer, it will show a message that announed " Your soul have been transffered into the gadget."
 5. User is able to find their own "soul" through the film that projected on the box.
+6. Exit
 
 #### Plan A_Interaction Flow 
 The installation is projected from back and mapped on the gadgets shape of cardboards. Before that, it need to enter the information with using mobile. It will translate the information into 2D animation and show it on the particular area through projection. 
@@ -205,6 +206,10 @@ Personality Outcome
 
 ![sketch - copy-02](https://user-images.githubusercontent.com/34241336/36494693-c0d72c5e-176d-11e8-94fe-c1d9597b11d3.jpg)
 
+1. Walk through the boxes.
+2. Looking at the content of the boxes.
+3. Exit.
+
 #### Plan B_Interaction Flow
 This installation will show the people's introduction video while user pass through the boxes. All of the visualization are projected from back and mapped on the boxes.
 
@@ -234,6 +239,13 @@ https://www.youtube.com/watch?v=3tlNJibk234 - How person greetings.
 
 ![sketch - copy-06](https://user-images.githubusercontent.com/34241336/36494729-ee3a1260-176d-11e8-9f3b-f7a3ee4ff0f2.jpg)
 
+1. Answer the multiple choice question with using the table provided.
+2. Get into the room after finishing the question.
+3. Wearing the cap.
+4. Looking at the content of the screen.
+5.Take off the cap.
+6.Exit the room.
+
 #### Plan C_Interaction Flow
 The installation is collecting the information from user and translate it to image which will show on the monitor screen when user get into the room and wearing the cap. Each monitor screen will show each image.
 
@@ -249,6 +261,9 @@ The installation is collecting the information from user and translate it to ima
 4) Arduino x 1 - Own
 5) Computer x 1 - Own
 6) Speaker x 1 - Rent
+
+#### Plan C_Contetn
+The visualization of the content will be similar to Plan A.
 
 
 
