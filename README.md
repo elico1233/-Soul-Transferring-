@@ -173,14 +173,47 @@ The installation is projected from back and mapped on the gadgets shape of cardb
 - Unity – Convert the database to media (GIF)
 - Resolume – Projection Mapping
 
-#### Plan A_Equipment Budget
-- Projector x 1 - Rent
-- White Cardboards x 15 - RM95
-- Computer x 1 - Own
+#### Plan A_Equipment & Budget
+1) Projector x 1 - Rent
+2) White Cardboards x 15 - RM95
+3) Computer x 1 - Own
 
 ### Plan B
+#### Plan B_Floor Plan
 
+#### Plan B_Interaction Flow
+This installation will show the people's introduction video while user pass through the boxes. All of the visualization are projected from back and mapped on the boxes.
 
+#### Plan B_Software
+- Arduino.ide – Receive the signal from motion sensor and convert to Processing.
+- Processing – Covert the signal from Arduino.ide to media (video) 
+- Resolume – Using for projection mapping.
+
+#### Plan B_Equipment & Budget
+1) Motion Sensor x 15 - RM61.5
+2) Arduino x 3 - 1 own, 2 for RM80
+3) Computer x 1 - Own
+4) Cardboards x 15 - RM95
+5) Projector x 1 - Rent
+
+### Plan C
+#### Plan C_Floor Plan
+
+#### Plan C_Interaction Flow
+The installation is collecting the information from user and translate it to image which will show on the monitor screen when user get into the room and wearing the cap. Each monitor screen will show each image.
+
+#### Plan C_Software
+- Xampp - For users to enter the information and send to database.
+- Arduino.ide – Receiver the signal from motion sensor
+- Processing - Covert the signal from Arduino.ide to media (video
+
+#### Plan C_Equipment & Budget
+1) Monitor x 2 - Rent
+2) Tablet x 1 - Own
+3) Motion Sensor x 1 - RM4.1 
+4) Arduino x 1 - Own
+5) Computer x 1 - Own
+6) Speaker x 1 - Rent
 
 
 
