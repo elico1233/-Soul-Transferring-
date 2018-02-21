@@ -157,7 +157,7 @@ Through the case studies, I have leanning the concept of space and human interac
 ### Plan A
 #### Plan A_Floor Plan 
 
-![27045374_10210502727348660_1642192934_n - copy](https://user-images.githubusercontent.com/34241336/35633008-32660f70-06e3-11e8-878c-a396ae24243b.jpg)
+![picture8](https://user-images.githubusercontent.com/34241336/36492529-52afb4bc-1768-11e8-888d-a10a0efda092.jpg) ![sketch-01](https://user-images.githubusercontent.com/34241336/36492328-dee34dfa-1767-11e8-8d4b-2b9e6e056238.jpg)
 
 1. Before having interaction with installation, the box just show the "glitch" effect.
 2. User is able to using their mobile to scan with QR code that I provided on the wall.
@@ -178,8 +178,29 @@ The installation is projected from back and mapped on the gadgets shape of cardb
 2) White Cardboards x 15 - RM95
 3) Computer x 1 - Own
 
+#### Plan A_Content
+The information that user is able to answer:
+-Name :
+-Emotion :
+a) Joy
+b) Suprise
+c) Fear
+d) Disgust
+e) Anger
+f) Sadness
+- Personality : 
+a) Do it now! - Dominant
+b) Have fun doing it. - Influential
+c) Do it right. - Cautions
+d) Do it together. - Steadiness 
+
+The outcome will be like this:
+![sketch-03](https://user-images.githubusercontent.com/34241336/36492613-7ff24642-1768-11e8-8063-f7895def91ba.jpg) 
+
 ### Plan B
 #### Plan B_Floor Plan
+
+![sketch-05](https://user-images.githubusercontent.com/34241336/36492392-fe2ea2e0-1767-11e8-89a3-6c11144f0029.jpg)
 
 #### Plan B_Interaction Flow
 This installation will show the people's introduction video while user pass through the boxes. All of the visualization are projected from back and mapped on the boxes.
@@ -198,6 +219,8 @@ This installation will show the people's introduction video while user pass thro
 
 ### Plan C
 #### Plan C_Floor Plan
+
+![sketch-06](https://user-images.githubusercontent.com/34241336/36492432-17bb16ee-1768-11e8-90e5-22045bf8d08f.jpg)
 
 #### Plan C_Interaction Flow
 The installation is collecting the information from user and translate it to image which will show on the monitor screen when user get into the room and wearing the cap. Each monitor screen will show each image.
