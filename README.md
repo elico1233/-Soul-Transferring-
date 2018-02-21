@@ -153,7 +153,9 @@ Through the case studies, I have leanning the concept of space and human interac
 
 ## Installation Planning
 
-### Floor Plan 
+
+### Plan A
+#### Plan A_Floor Plan 
 
 ![27045374_10210502727348660_1642192934_n - copy](https://user-images.githubusercontent.com/34241336/35633008-32660f70-06e3-11e8-878c-a396ae24243b.jpg)
 
@@ -163,8 +165,20 @@ Through the case studies, I have leanning the concept of space and human interac
 4. After submit the answer, it will show a message that announed " Your soul have been transffered into the gadget."
 5. User is able to find their own "soul" through the film that projected on the box.
 
-### Interaction Flow 
+#### Plan A_Interaction Flow 
 The installation is projected from back and mapped on the gadgets shape of cardboards. Before that, it need to enter the information with using mobile. It will translate the information into 2D animation and show it on the particular area through projection. 
+
+#### Plan A_Software
+- Xampp – For users to enter the information and send to database
+- Unity – Convert the database to media (GIF)
+- Resolume – Projection Mapping
+
+#### Plan A_Equipment Budget
+- Projector x 1 - Rent
+- White Cardboards x 15 - RM95
+- Computer x 1 - Own
+
+### Plan B
 
 
 
