@@ -157,8 +157,7 @@ Through the case studies, I have leanning the concept of space and human interac
 ### Plan A
 #### Plan A_Floor Plan 
 
-![picture8](https://user-images.githubusercontent.com/34241336/36492529-52afb4bc-1768-11e8-888d-a10a0efda092.jpg) ![sketch-01](https://user-images.githubusercontent.com/34241336/36492328-dee34dfa-1767-11e8-8d4b-2b9e6e056238.jpg)
-
+![picture8](https://user-images.githubusercontent.com/34241336/36492529-52afb4bc-1768-11e8-888d-a10a0efda092.jpg) ![sketch - copy-01](https://user-images.githubusercontent.com/34241336/36494712-da70ba0e-176d-11e8-92b9-92adc43dbfe7.jpg)
 1. Before having interaction with installation, the box just show the "glitch" effect.
 2. User is able to using their mobile to scan with QR code that I provided on the wall.
 3. User have to answer 3 questions after scanning QR code.
@@ -196,13 +195,15 @@ d) Do it together. - Steadiness
 
 The outcome will be like this:
 ![sketch-03](https://user-images.githubusercontent.com/34241336/36492613-7ff24642-1768-11e8-8063-f7895def91ba.jpg)
+
 Emotion Outcome
 ![sketch-04-04-04](https://user-images.githubusercontent.com/34241336/36494073-0d4c6498-176c-11e8-99d9-707a53b59d0d.jpg)
+
 Personality Outcome
 ### Plan B
 #### Plan B_Floor Plan
 
-![sketch-05](https://user-images.githubusercontent.com/34241336/36492392-fe2ea2e0-1767-11e8-89a3-6c11144f0029.jpg)
+![sketch - copy-02](https://user-images.githubusercontent.com/34241336/36494693-c0d72c5e-176d-11e8-94fe-c1d9597b11d3.jpg)
 
 #### Plan B_Interaction Flow
 This installation will show the people's introduction video while user pass through the boxes. All of the visualization are projected from back and mapped on the boxes.
@@ -219,10 +220,19 @@ This installation will show the people's introduction video while user pass thro
 4) Cardboards x 15 - RM95
 5) Projector x 1 - Rent
 
+#### Plan B_Content
+The visualization will be a person greeting video, which means that the person will show his/her emotion and personality through the video. These are the reference of person greeting video:
+
+![aaa-07](https://user-images.githubusercontent.com/34241336/36494641-8f99fb9e-176d-11e8-8782-d384c1802785.jpg)
+
+The person shooting with plain white background.
+
+https://www.youtube.com/watch?v=3tlNJibk234 - How person greetings.
+
 ### Plan C
 #### Plan C_Floor Plan
 
-![sketch-06](https://user-images.githubusercontent.com/34241336/36492432-17bb16ee-1768-11e8-90e5-22045bf8d08f.jpg)
+![sketch - copy-06](https://user-images.githubusercontent.com/34241336/36494729-ee3a1260-176d-11e8-9f3b-f7a3ee4ff0f2.jpg)
 
 #### Plan C_Interaction Flow
 The installation is collecting the information from user and translate it to image which will show on the monitor screen when user get into the room and wearing the cap. Each monitor screen will show each image.
