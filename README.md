@@ -195,8 +195,10 @@ c) Do it right. - Cautions
 d) Do it together. - Steadiness 
 
 The outcome will be like this:
-![sketch-03](https://user-images.githubusercontent.com/34241336/36492613-7ff24642-1768-11e8-8063-f7895def91ba.jpg) 
-
+![sketch-03](https://user-images.githubusercontent.com/34241336/36492613-7ff24642-1768-11e8-8063-f7895def91ba.jpg)
+Emotion Outcome
+![sketch-04-04-04](https://user-images.githubusercontent.com/34241336/36494073-0d4c6498-176c-11e8-99d9-707a53b59d0d.jpg)
+Personality Outcome
 ### Plan B
 #### Plan B_Floor Plan
 
