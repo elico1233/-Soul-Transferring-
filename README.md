@@ -7,17 +7,13 @@ Soul Transferring by Tong Xin Hua(1161303441)
 #### Exhibition theme: Second Life
 #### Title : Soul Transferring
 
-Soul defines the mental abilities of human being which is include of consciousness, memory, emotion, personality, etc. So I think that it will get a lot of benefits if human's soul is able to transfer to a non-biological object in the future.
+Soul defines the mental abilities of human being which is include of consciousness, memory, emotion, personality, etc. So I think that it will get a lot of benefits if human's soul is able to transfer to a non-biological object.
 
 
 ### Objectives of Project:
-1) Let people understanding the amazing of human, since the soul transfer is still unidentified in the world no, so the user will feel that is mysterious to the final outcome.
+1) Let people understanding the amazing of human, create a visualization of "Soul Transferring" that our soul can be transferred by the path of media technology.
 
-2) Feeling back to original form of human, without soulm without body, it means that soul is the consciousness so this project will let human remember back to the beginning.
-
-3) Understanding the moral of soul which is understanding the message that delivered and recreate the message with using different path ways to contribute it back to the community.
-
-4) Figure out the future
+2) Feeling back to original form of human, without soul without body, so this project will let human remember back to the beginning, to know what we are.
 
 ### Target Users : 
 
@@ -29,11 +25,7 @@ The project argument of this project is soul is able to transfer to technology i
 
 ### Project Statement :
 
-Transfer or copy the consciousness, emotion, and personality of human to a non- biological object to make it stay forever.
-
-- Reason : Keep the “person” forever.
-
-- Benefit : The knowledge will not be gone and can be used in the future.
+Transfer or copy the emotion, and personality of a human to a non- biological object by using the media technology.
 
 ## Draft Sketches
 
