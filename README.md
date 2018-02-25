@@ -25,7 +25,8 @@ The project argument of this project is soul is able to transfer to technology i
 
 ### Project Statement :
 
-Transfer or copy the emotion, and personality of a human to a non- biological object by using the media technology.
+From the perspective of human’s imagination, media technology is able to transfer or copy the emotion, and personality of a human to a non- biological object to make it stay forever in the future.
+
 
 ## Draft Sketches
 
